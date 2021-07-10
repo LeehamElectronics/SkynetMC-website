@@ -1,6 +1,7 @@
 # [skynetmc.com.au](https://www.skynetmc.com.au)
 
-## This repo contians the software I wrote for my personal website.
+## This repo contians the software I wrote for the front page of Skynet MC, a private Minecraft community. 
+###### Why is it open source one might ask?? Well, I like to keep all of my software work open source regardless of its purpose.
 
 #
 
