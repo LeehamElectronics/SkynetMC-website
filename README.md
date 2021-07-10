@@ -1,4 +1,4 @@
-# [skynet.com.au](https://www.skynetmc.com.au)
+# [skynetmc.com.au](https://www.skynetmc.com.au)
 
 ## This repo contians the software I wrote for my personal website.
 
